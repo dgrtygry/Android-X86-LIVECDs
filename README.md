@@ -20,3 +20,6 @@ Current Releases that are being worked on:
   It will be called "Project Basin".
 
   As always, Check releases to download compiled builds!
+
+
+Check "Funfacts.MD" to see fun facts about Android!
