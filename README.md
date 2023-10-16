@@ -13,7 +13,7 @@ Current Releases that are being worked on:
 
 * Android 14
 
-  The source code is just AOSP code compiled for PCs. You can download AOSP code here: https://source.android.com/docs/setup/download/downloading 
+  The source code is just AOSP code compiled for PCs. You can download AOSP code here: https://source.android.com/docs/setup/download/downloading (NOTE: Building Android requires Linux so please ensure you have a Linux environment. 
 
   I will be making my own Android OS soon.
 
