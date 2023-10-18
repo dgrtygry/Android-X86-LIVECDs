@@ -10,6 +10,3 @@ This includes the most recent up to date AOSP builds of Android-X86 for PCs . Th
   It will be called "Project Basin".
 
   As always, Check releases to download compiled builds!
-
-
-Check "Funfacts.MD" to see fun facts about Android!
